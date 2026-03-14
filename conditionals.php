@@ -24,7 +24,7 @@
 	}
 	*/
 
-	# NESTING IF
+	# TESTING IF
 
 	$num = 6;
 
